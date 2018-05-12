@@ -1,0 +1,54 @@
+_repo: Wizard_24375
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janifer, Laurence M.
+    aliases:
+    - Janifer, Larry
+    - Harris, Laurence Mark
+    - Logan, William
+    - Janifer, Laurence Mark
+    - Harris, Larry M.
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: Although the Masquerade itself, as a necessary protection against non-telepaths,
+  was not fully formulated until the late years of the Seventeenth Century, groups
+  of telepaths-in-hiding existed long before that date. Whether such groups were the
+  results of natural mutations, or whether they came into being due to some other
+  cause, has not yet been fully determined, but that a group did exist in the district
+  of Offenburg, in what is now Prussia, we are quite sure. The activities of the group
+  appear to have begun, approximately, in the year 1594, but it was not until eleven
+  years afte.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Inquisition -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Telepathy -- Fiction'
+title: Wizard
+url: http://www.gutenberg.org/ebooks/24375
